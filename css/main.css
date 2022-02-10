@@ -45,6 +45,9 @@ header {
   background: #9932CC;
 }
 
+#column-4 {
+  background-color:#DC143C;
+}
 
 /*---------- FOOTER ----------*/
 
@@ -65,14 +68,22 @@ footer {
 
   #column-1 {
     background-color:#00FFFF;
+    width: 50%;
   }
 
   #column-2 {
     background-color: #E9967A;
+    width: 50%;
   }
 
   #column-3 {
     background-color:#9932CC ;
+    width: 50%;
+  }
+
+  #column-4 {
+    background-color:#DC143C;
+    width: 50%;
   }
 
   footer {
@@ -90,14 +101,17 @@ footer {
 
   #column-1 {
     background-color:#DC143C;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color:#6495ED;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color:#228B22;
+    width: 33.3%;
   }
 
   footer {
